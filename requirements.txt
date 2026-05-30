@@ -1,0 +1,6 @@
+#requirements
+django>=5 #better to use LTS versions
+djangorestframework
+pyyaml
+requests
+django-cors-headers
